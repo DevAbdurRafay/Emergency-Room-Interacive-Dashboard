@@ -65,6 +65,7 @@ This project features an advanced Emergency Room Dashboard developed using Micro
 Emergency-Room-Interactive-Dashboard
 ├── ER Analysis Dashboard New.xlsx
 ├── ER Analysis.jpg
+├── ER Analysis 2.jpg
 └── README.md
 </pre>
 
