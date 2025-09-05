@@ -14,6 +14,16 @@ This project features an advanced Emergency Room Dashboard developed using Micro
 
 <hr>
 
+<h2>Software Used</h2>
+
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
+  </a>
+</p>
+
+<hr>
+
 <h2>Key Features</h2>
 <ul>
   <li>Monthly patient volume tracking</li>
